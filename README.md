@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# Bangkok 2020 🌏
 <!--
 **Sh0ckWaveZero/Sh0ckWaveZero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
