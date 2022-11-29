@@ -1,4 +1,4 @@
-<h1 align="center"> :boar: Hi, I'm Sh0ckWaveZero :boar:</h1>
+<h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2034%20mins-blue)
