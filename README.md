@@ -1,13 +1,13 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-462%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-461%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 69.0 kB Used in GitHub's Storage 
+> 📦 69.1 kB Used in GitHub's Storage 
  > 
-> 🏆 362 Contributions in the Year 2023
+> 🏆 372 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -53,7 +53,7 @@ Mac                      29 hrs 43 mins      ███████████�
 ```
 
 
- Last Updated on 18/03/2023 01:57:00 UTC
+ Last Updated on 18/03/2023 17:02:54 UTC
 <!--END_SECTION:waka-->
 
 ##
