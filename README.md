@@ -1,7 +1,7 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-539%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-541%20hrs%2036%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -42,14 +42,18 @@ Sunday                   466 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Git Config               1 hr 24 mins        ██████████████░░░░░░░░░░░   54.77 % 
+YAML                     33 mins             █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Bash                     22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.04 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      2 hrs 34 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 18/04/2023 17:12:08 UTC
+ Last Updated on 19/04/2023 17:13:10 UTC
 <!--END_SECTION:waka-->
 
 ##
