@@ -1,7 +1,7 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C115%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C114%20hrs%2029%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -53,7 +53,7 @@ Mac                      15 hrs 48 mins      ███████████�
 ```
 
 
- Last Updated on 19/10/2024 12:05:39 UTC
+ Last Updated on 19/10/2024 17:05:52 UTC
 <!--END_SECTION:waka-->
 
 ##
