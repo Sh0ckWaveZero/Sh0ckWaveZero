@@ -1,19 +1,19 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C966%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C970%20hrs%2018%20mins-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 95.1 kB Used in GitHub's Storage 
+> 📦 96.9 kB Used in GitHub's Storage 
  > 
-> 🏆 63 Contributions in the Year 2025
+> 🏆 77 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 128 Public Repositories 
+> 📜 129 Public Repositories 
  > 
-> 🔑 11 Private Repositories 
+> 🔑 10 Private Repositories 
  > 
 **I'm a Night 🦉** 
 
@@ -42,18 +42,18 @@ Sunday                   1761 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               14 hrs 23 mins      ██████████░░░░░░░░░░░░░░░   38.09 % 
-TypeScript               13 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   34.71 % 
-HTML                     3 hrs               ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-JSON                     2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-Prisma                   1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.87 % 
+JavaScript               9 hrs 41 mins       ██████████░░░░░░░░░░░░░░░   41.78 % 
+TypeScript               4 hrs 43 mins       █████░░░░░░░░░░░░░░░░░░░░   20.35 % 
+HTML                     2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+JSON                     2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+Prisma                   1 hr 39 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
 
 💻 Operating System: 
-Mac                      37 hrs 46 mins      █████████████████████████   100.00 % 
+Mac                      23 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 01/06/2025 17:06:16 UTC
+ Last Updated on 04/06/2025 17:06:34 UTC
 <!--END_SECTION:waka-->
 
 ##
