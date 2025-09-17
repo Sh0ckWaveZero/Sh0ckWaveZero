@@ -1,9 +1,11 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C426%20hrs%2043%20mins-blue)
+
 **🐱 My GitHub Data** 
 
-> 📦 101.2 kB Used in GitHub's Storage 
+> 📦 101.1 kB Used in GitHub's Storage 
  > 
 > 🏆 347 Contributions in the Year 2025
  > 
@@ -14,7 +16,7 @@
 > 🔑 10 Private Repositories 
  > 
 
- Last Updated on 16/09/2025 17:07:12 UTC
+ Last Updated on 17/09/2025 17:07:21 UTC
 <!--END_SECTION:waka-->
 
 ##
