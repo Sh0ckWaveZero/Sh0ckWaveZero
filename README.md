@@ -1,11 +1,13 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C093%20hrs%2036%20mins-blue?style=flat)
+
 **🐱 My GitHub Data** 
 
-> 📦 113.5 kB Used in GitHub's Storage 
+> 📦 113.6 kB Used in GitHub's Storage 
  > 
-> 🏆 505 Contributions in the Year 2026
+> 🏆 519 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -13,8 +15,50 @@
  > 
 > 🔑 10 Private Repositories 
  > 
+**I'm an Early 🐤** 
 
- Last Updated on 23/05/2026 17:32:28 UTC
+```text
+🌞 Morning                11830 commits       ████████░░░░░░░░░░░░░░░░░   30.55 % 
+🌆 Daytime                7828 commits        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
+🌃 Evening                18077 commits       ████████████░░░░░░░░░░░░░   46.69 % 
+🌙 Night                  985 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   6327 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Tuesday                  5079 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                4424 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Thursday                 3726 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
+Friday                   3363 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Saturday                 7525 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Sunday                   8276 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+TypeScript               14 hrs 57 mins      ███████████████░░░░░░░░░░   59.27 % 
+JSON                     1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+JavaScript               1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
+YAML                     1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+shell script             1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
+
+🔥 Editors: 
+Claude Code              18 hrs 16 mins      ██████████████████░░░░░░░   72.41 % 
+Zed                      6 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+Cursor                   20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+
+💻 Operating System: 
+Mac                      25 hrs 14 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 24/05/2026 17:29:03 UTC
 <!--END_SECTION:waka-->
 
 ##
