@@ -5,7 +5,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 120.2 kB Used in GitHub's Storage 
+> 📦 120.3 kB Used in GitHub's Storage 
  > 
 > 🏆 599 Contributions in the Year 2026
  > 
@@ -42,25 +42,24 @@ Sunday                   9755 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   28.82 % 
-JSON                     1 hr 58 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Markdown                 1 hr 52 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.04 % 
-HTML                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
-CSS                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
+JavaScript               3 hrs 49 mins       ███████░░░░░░░░░░░░░░░░░░   29.77 % 
+Markdown                 1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+HTML                     1 hr 41 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
+JSON                     1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.91 % 
+CSS                      1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.46 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 40 mins       █████████████░░░░░░░░░░░░   50.23 % 
-Zed                      3 hrs 42 mins       ███████░░░░░░░░░░░░░░░░░░   27.87 % 
-Antigravity CLI          1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Codex CLI                1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Claude Code              23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
+VS Code                  6 hrs 40 mins       █████████████░░░░░░░░░░░░   51.89 % 
+Zed                      3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.47 % 
+Antigravity CLI          1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.50 % 
+Codex CLI                1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.14 % 
 
 💻 Operating System: 
-Mac                      13 hrs 18 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 25/07/2026 18:03:33 UTC
+ Last Updated on 26/07/2026 18:07:09 UTC
 <!--END_SECTION:waka-->
 
 ##
