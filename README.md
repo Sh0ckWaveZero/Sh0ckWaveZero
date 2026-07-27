@@ -1,11 +1,13 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C260%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C163%20hrs%208%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-414%20hrs%2057%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 120.3 kB Used in GitHub's Storage 
+> 📦 120.4 kB Used in GitHub's Storage 
  > 
 > 🏆 599 Contributions in the Year 2026
  > 
@@ -58,8 +60,32 @@ Codex CLI                1 hr 10 mins        ██░░░░░░░░░�
 Mac                      12 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
+🤖 **AI Coding This Week** 
 
- Last Updated on 26/07/2026 18:07:09 UTC
+```text
+⏱ AI Coding Time: 10 hrs 41 mins (83.01%)
+
+✍️ 2,565 lines written by AI, 1,675 lines written by hand (60.5% AI-written)
+
+🔤 145,787,220 Input Tokens, 558,179 Output Tokens
+
+💵 $726.27 Estimated AI Cost This Week
+
+🧠 20 AI Sessions, 210 AI Prompts
+
+GPT                      2,624 lines         █████████████████████████   98.24 % 
+Gemini                   47 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+Vscode-Wakatime          0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 60.5% of written lines came from AI
+📚 Verbose Prompter — average 1,560 characters per prompt
+🔁 Iterative Prompter — average 10 prompts per session
+🚀 High AI Trust — 39.12% of changed lines were hand-edited
+```
+
+
+ Last Updated on 27/07/2026 18:32:09 UTC
 <!--END_SECTION:waka-->
 
 ##
