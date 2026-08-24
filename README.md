@@ -7,7 +7,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 121.4 kB Used in GitHub's Storage 
+> 📦 121.6 kB Used in GitHub's Storage 
  > 
 > 🏆 712 Contributions in the Year 2026
  > 
@@ -44,35 +44,35 @@ Sunday                   11607 commits       █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-JavaScript               9 hrs 19 mins       ██████████░░░░░░░░░░░░░░░   40.89 % 
-Other                    4 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-HTML                     3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
-TypeScript               2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
-Markdown                 1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+JavaScript               9 hrs 15 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
+Other                    3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+HTML                     3 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.52 % 
+TypeScript               1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.31 % 
+Markdown                 1 hr 25 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 🔥 Editors: 
-Codex Vscode             10 hrs 6 mins       ███████████░░░░░░░░░░░░░░   44.34 % 
-Zed                      10 hrs 3 mins       ███████████░░░░░░░░░░░░░░   44.13 % 
-Claude Code              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.39 % 
-Cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
-Antigravity CLI          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
+Codex Vscode             10 hrs 6 mins       ████████████░░░░░░░░░░░░░   46.88 % 
+Zed                      8 hrs 49 mins       ██████████░░░░░░░░░░░░░░░   40.94 % 
+Claude Code              1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+Cursor                   28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Antigravity CLI          13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 💻 Operating System: 
-Mac                      22 hrs 48 mins      █████████████████████████   100.00 % 
+Mac                      21 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 21 hrs 32 mins (94.45%)
+⏱ AI Coding Time: 20 hrs 21 mins (94.37%)
 
 ✍️ 1,777 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 192,131,310 Input Tokens, 3,145,495 Output Tokens
+🔤 164,794,566 Input Tokens, 3,010,625 Output Tokens
 
-💵 $1011.66 Estimated AI Cost This Week
+💵 $849.86 Estimated AI Cost This Week
 
-🧠 66 AI Sessions, 588 AI Prompts
+🧠 65 AI Sessions, 588 AI Prompts
 
 GPT                      1,811 lines         █████████████████████████   98.21 % 
 Opencode-Cli             33 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
@@ -88,7 +88,7 @@ Composer                 0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 23/08/2026 17:24:50 UTC
+ Last Updated on 24/08/2026 17:37:24 UTC
 <!--END_SECTION:waka-->
 
 ##
