@@ -1,9 +1,9 @@
 <h1 align="center"> :boar: Hi, I'm MidSeeLee :boar:</h1>
  
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C496%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C501%20hrs%2031%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-760%20hrs%2037%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-765%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -44,51 +44,51 @@ Sunday                   13372 commits       █████░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-TypeScript               23 hrs 38 mins      █████████████░░░░░░░░░░░░   52.95 % 
-Other                    7 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-JSON                     4 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
-Markdown                 3 hrs 49 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.58 % 
-JavaScript               2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+TypeScript               19 hrs 47 mins      █████████████░░░░░░░░░░░░   50.46 % 
+Other                    7 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Markdown                 4 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+JSON                     2 hrs 19 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+JavaScript               2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 
 🔥 Editors: 
-Claude Code              16 hrs 16 mins      █████████░░░░░░░░░░░░░░░░   36.46 % 
-Codex Vscode             16 hrs 6 mins       █████████░░░░░░░░░░░░░░░░   36.06 % 
-Zed                      10 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   22.78 % 
-Bot                      1 hr 54 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
-Cursor                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Claude Code              15 hrs 31 mins      ██████████░░░░░░░░░░░░░░░   39.58 % 
+Codex Vscode             11 hrs 37 mins      ███████░░░░░░░░░░░░░░░░░░   29.62 % 
+Zed                      10 hrs 10 mins      ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+Bot                      1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
+Antigravity CLI          31 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 💻 Operating System: 
-Mac                      44 hrs 39 mins      █████████████████████████   100.00 % 
+Mac                      39 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 43 hrs 26 mins (97.29%)
+⏱ AI Coding Time: 37 hrs 55 mins (96.69%)
 
-✍️ 13,178 lines written by AI, 542 lines written by hand (96.05% AI-written)
+✍️ 11,276 lines written by AI, 555 lines written by hand (95.31% AI-written)
 
-🔤 25,515,730 Input Tokens, 4,919,742 Output Tokens
+🔤 25,658,972 Input Tokens, 4,365,667 Output Tokens
 
-💵 $1589.09 Estimated AI Cost This Week
+💵 $1580.31 Estimated AI Cost This Week
 
-🧠 106 AI Sessions, 696 AI Prompts
+🧠 105 AI Sessions, 648 AI Prompts
 
-GPT                      7,710 lines         ██████████████░░░░░░░░░░░   55.46 % 
-ZCode                    3,553 lines         ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-Opus                     1,664 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
-Sonnet                   974 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.01 % 
+GPT                      5,862 lines         ████████████░░░░░░░░░░░░░   49.88 % 
+ZCode                    3,553 lines         ████████░░░░░░░░░░░░░░░░░   30.23 % 
+Opus                     1,394 lines         ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Sonnet                   943 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.05% of written lines came from AI
-📄 Detailed Prompter — average 871 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🚀 High AI Trust — 5.3% of changed lines were hand-edited
+🤖 AI-Driven — 95.31% of written lines came from AI
+📄 Detailed Prompter — average 776 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 6.63% of changed lines were hand-edited
 ```
 
 
- Last Updated on 01/10/2026 21:48:25 UTC
+ Last Updated on 02/10/2026 21:22:32 UTC
 <!--END_SECTION:waka-->
 
 ##
